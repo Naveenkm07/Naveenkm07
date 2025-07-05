@@ -3,16 +3,30 @@
   <img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Coding" width="300">
 </p>
 
-<h1 align="center">Hi 👋, I'm Naveen Kumar K M</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<!-- Animated Typing Effect -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naveen+Kumar+K+M;A+Passionate+Developer+from+India" alt="Typing SVG" />
+  </a>
+</h1>
 
 <!-- Right-side Coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Student-New%20Horizon%20College-blue?style=for-the-badge" />
+</p>
 
 <!-- Profile Views Badge -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=naveenkm07&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkm07" /> 
 </p>
+
+<!-- Developer Quote -->
+<p align="center"><i>"Code never lies, comments sometimes do."</i></p>
 
 - 🔭 I’m currently a student at **New Horizon College of Engineering**  
 - 🌱 I’m currently learning **Java**  
