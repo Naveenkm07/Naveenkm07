@@ -1,0 +1,25 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: naveenkm07/snake-animation@main  # Replace with your snake repo name
+        with:
+          github_user_name: naveenkm07
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: NaveenKM Bot
+          author_email: kmnaveenkm01@gmail.com
+          message: "Generate Contribution Snake"
+          add: "dist/github-contribution-grid-snake.svg"
