@@ -1,11 +1,6 @@
+<!-- Coding GIF at the Top -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhrcXd6amp2N2RxNWlkN3lxOG4zbGZsMzJ2ZnowbWM3dWdqd3d6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding">
-</p>
-
-
-<!-- Small Coding Image at the Top -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Coding" width="300">
 </p>
 
 <!-- Animated Typing Effect -->
