@@ -27,10 +27,24 @@
 
 ---
 
+
+
+
+
 <!-- 🐍 Contribution Snake Animation -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/naveenkm07/naveenkm07/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
+
+
+
+
+
+
+
+
+
 
 ---
 
