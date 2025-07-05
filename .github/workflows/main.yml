@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: naveenkm07/snake-animation@main  # Replace with your snake repo name
+      - uses: naveenkm07/snk@main  # Correct repo name used here
         with:
           github_user_name: naveenkm07
           outputs: dist/github-contribution-grid-snake.svg
