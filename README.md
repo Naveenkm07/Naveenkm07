@@ -10,9 +10,6 @@
   </a>
 </h1>
 
-<!-- Right-side Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -20,13 +17,17 @@
   <img src="https://img.shields.io/badge/Student-New%20Horizon%20College-blue?style=for-the-badge" />
 </p>
 
-<!-- Profile Views Badge -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=naveenkm07&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkm07" /> 
+<!-- Profile Views Badge with Emoji -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=naveenkm07&label=Visitors&color=brightgreen&style=flat&logo=github" alt="Profile Views" /> 
 </p>
 
 <!-- Developer Quote -->
 <p align="center"><i>"Code never lies, comments sometimes do."</i></p>
+
+---
+
+## 👨‍💻 About Me
 
 - 🔭 I’m currently a student at **New Horizon College of Engineering**  
 - 🌱 I’m currently learning **Java**  
@@ -36,22 +37,24 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🌐 Connect with me
+
+<p align="center">
   <a href="https://instagram.com/naveenkm07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/c/naveentechie" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://leetcode.com/naveenkm07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
+
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
@@ -87,17 +90,28 @@
 
 ---
 
-<!-- GitHub Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naveenkm07&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
-<p>&nbsp;</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkm07&show_icons=true&locale=en" alt="GitHub Stats" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenkm07&show_icons=true&locale=en&theme=radical" alt="Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkm07&theme=radical" alt="Streak Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkm07" alt="GitHub Streak" />
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/naveenkm07/naveenkm07/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
