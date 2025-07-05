@@ -27,6 +27,13 @@
 
 ---
 
+<!-- 🐍 Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naveenkm07/naveenkm07/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently a student at **New Horizon College of Engineering**  
@@ -106,12 +113,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkm07&theme=radical" alt="Streak Stats" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/naveenkm07/naveenkm07/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
