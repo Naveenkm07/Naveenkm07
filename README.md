@@ -1,5 +1,5 @@
-<!-- MasterHead Banner Image -->
-[![MasterHead](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)](https://unsplash.com/s/photos/coding)
+<!-- MasterHead Coding Image -->
+[![MasterHead](https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)](https://unsplash.com/s/photos/coding)
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar K M</h1>
 <h3 align="center">A Passionate Developer from India</h3>
