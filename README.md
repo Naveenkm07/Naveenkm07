@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" alt="Coding">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhrcXd6amp2N2RxNWlkN3lxOG4zbGZsMzJ2ZnowbWM3dWdqd3d6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding">
 </p>
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar KM</h1>
