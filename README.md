@@ -27,31 +27,18 @@
 
 ---
 
-
-
-
-
 <!-- 🐍 Contribution Snake Animation -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/naveenkm07/naveenkm07/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
 
-
-
-
-
-
-
-
-
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently a student at **New Horizon College of Engineering**  
-- 🌱 I’m currently learning **Java**  
+- 🔭 I'm currently a student at **New Horizon College of Engineering**  
+- 🌱 I'm currently learning **Java**  
 - 💬 Ask me about **Techies**  
 - 📫 How to reach me: **kmnaveenkm01@gmail.com**  
 - ⚡ Fun fact: **I think I'm funny 😄**  
