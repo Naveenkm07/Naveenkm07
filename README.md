@@ -44,7 +44,6 @@
 - ⚡ Fun fact: **I think I'm funny 😄**  
 
 ---
-https://www.youtube.com/@NAVEENTECHIE
 ## 🌐 Connect with me
 
 <p align="center">
