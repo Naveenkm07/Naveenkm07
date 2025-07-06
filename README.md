@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently a student at **New Horizon College of Engineering CSE **  
+- 🔭 I'm currently a student at **New Horizon College of Engineering { CSE } **  
 - 🌱 I'm currently learning **Java**  
 - 💬 Ask me about **Techies**  
 - 📫 How to reach me: **kmnaveenkm01@gmail.com**  
