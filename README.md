@@ -21,6 +21,19 @@
   <img src="https://komarev.com/ghpvc/?username=naveenkm07&label=Visitors&color=brightgreen&style=flat&logo=github" alt="Profile Views" /> 
 </p>
 
+
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveenkm07&label=Visitors&color=brightgreen&style=plastic&logo=github" alt="Profile Views" />
+</p>
+
+
+
+
+
+
 <!-- Developer Quote -->
 <p align="center"><i>"Code never lies, comments sometimes do."</i></p>
 
