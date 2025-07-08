@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhrcXd6amp2N2RxNWlkN3lxOG4zbGZsMzJ2ZnowbWM3dWdqd3d6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding">
 </p>
-<!-- Animated Typing Effect -->
+<!-- Animated Typing Effect ! -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naveen+Kumar+K+M;A+Passionate+Developer+from+India" alt="Typing SVG" />
