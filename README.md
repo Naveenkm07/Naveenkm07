@@ -163,16 +163,15 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 
 
 
-
-
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+# in repository’s .github/topics
+tags:
+  - java
+  - python
+  - machine-learning
+  - computer-vision
+  - open-source
 
 
 
 [![Read in Hindi](https://img.shields.io/badge/Read‑in‑Hindi-blue)](README.hi.md)
-
-
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
