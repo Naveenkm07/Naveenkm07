@@ -110,8 +110,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=naveenkm07&show_icons=true&locale=en&theme=radical" alt="Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naveenkm07&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenkm07&show_icons=true&theme=radical" />
 </p>
-
