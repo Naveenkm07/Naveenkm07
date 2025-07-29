@@ -43,6 +43,21 @@
 - ⚡ Fun fact: **I think I'm funny 😄**  
 
 ---
+
+
+
+
+
+## 🤝 Contributing
+Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue or PR.
+
+
+
+
+
+
+
+
 ## 🌐 Connect with me
 
 <p align="center">
