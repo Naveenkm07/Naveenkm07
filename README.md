@@ -146,6 +146,12 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 
 
 
+## 🏷️ Our Labels
+
+![Bug](https://img.shields.io/badge/label-Bug-red)  
+![Feature](https://img.shields.io/badge/label-Feature-green)  
+![Docs](https://img.shields.io/badge/label-Docs-blue)
+
 
 
 
@@ -245,11 +251,5 @@ Use GitHub’s search bar, or add:
 ![Language Pie](https://raw.githubusercontent.com/naveenkm07/naveenkm07/output/lang‑pie.svg)
 
 
-
-## 🏷️ Our Labels
-
-![Bug](https://img.shields.io/badge/label-Bug-red)  
-![Feature](https://img.shields.io/badge/label-Feature-green)  
-![Docs](https://img.shields.io/badge/label-Docs-blue)
 
 
