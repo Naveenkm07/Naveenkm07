@@ -175,3 +175,18 @@ tags:
 
 [![Read in Hindi](https://img.shields.io/badge/Read‑in‑Hindi-blue)](README.hi.md)
 
+
+
+
+
+
+
+
+
+
+![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/naveenkm07/your‑repo)
+![Dependencies](https://img.shields.io/librariesio/github/naveenkm07/your‑repo)
+
+
+
+
