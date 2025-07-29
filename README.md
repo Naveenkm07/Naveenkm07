@@ -185,6 +185,15 @@ tags:
 [![Read in Hindi](https://img.shields.io/badge/Read‑in‑Hindi-blue)](README.hi.md)
 
 
+![Open‑Source Contributions](https://contributors-img.firebaseapp.com/image?user=naveenkm07)
+**Coding Streak:** ![](https://streak-stats.demolab.com?user=naveenkm07&mode=daily)
+![License](https://img.shields.io/github/license/naveenkm07/your‑repo)
+![Build](https://github.com/naveenkm07/your‑repo/actions/workflows/ci.yml/badge.svg)
+[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/naveenkm07/your‑repo)
+## 🔎 Search  
+Use GitHub’s search bar, or add:
+[![Search](https://img.shields.io/badge/Search‑Repo‑black?style=for-the-badge)](https://github.com/naveenkm07/your‑repo/search)
+[![Gitter](https://badges.gitter.im/naveenkm07/community.svg)](https://gitter.im/naveenkm07/community)
 
 
 
