@@ -170,7 +170,7 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 
 ![License](https://img.shields.io/github/license/naveenkm07/your‑repo)
 
-
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/naveenkm07&size=100x100)
 
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/naveenkm07/your‑repo)
 
