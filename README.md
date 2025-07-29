@@ -226,6 +226,30 @@ Use GitHub’s search bar, or add:
 
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/naveenkm07&size=100x100)
 
-![Deps](https://img.shields.io/github/deps/release/naveenkm07/your‑repo)
+![Deps](https://img.shields.io/github/deps/release/naveenkm07/your‑repo
+
+
+
+
+
+
+
+)
+
+
+
+
+
+
+
+![Language Pie](https://raw.githubusercontent.com/naveenkm07/naveenkm07/output/lang‑pie.svg)
+
+
+
+## 🏷️ Our Labels
+
+![Bug](https://img.shields.io/badge/label-Bug-red)  
+![Feature](https://img.shields.io/badge/label-Feature-green)  
+![Docs](https://img.shields.io/badge/label-Docs-blue)
 
 
