@@ -47,6 +47,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=naveenkm07&theme=dracula)
 [GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=naveenkm07&theme=dracula)
 
+[GitHub Graph](https://github-readme-activity-graph.cyclic.app/)
 
 
 ## 🌐 Connect with me
