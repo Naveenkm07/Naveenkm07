@@ -57,6 +57,14 @@
   </a>
 </p>
 
+
+---
+
+## 📄 Resume
+[Download My Resume (PDF)](https://your‑domain.com/resume.pdf)
+
+
+
 ---
 
 ## 🛠️ Languages and Tools
