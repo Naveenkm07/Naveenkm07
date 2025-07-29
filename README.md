@@ -101,15 +101,26 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=naveenkm07&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkm07&show_icons=true&locale=en&theme=radical" alt="Stats" />
+  <!-- Main GitHub stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=naveenkm07&show_icons=true&locale=en&theme=radical" 
+    alt="Stats" 
+  />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkm07&show_icons=true&theme=radical" />
+  <!-- Top languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm07&show_icons=true&locale=en&layout=compact&theme=radical" 
+    alt="Top Languages" 
+  />
+  <br><br>
+  <!-- **Working** streak stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=naveenkm07&theme=radical&date_format=M%20j%5B%2C%20Y%5D" 
+    alt="Streak Stats" 
+  />
 </p>
