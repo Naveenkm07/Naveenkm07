@@ -168,3 +168,11 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 
 
 
+
+
+[![Read in Hindi](https://img.shields.io/badge/Read‑in‑Hindi-blue)](README.hi.md)
+
+
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
