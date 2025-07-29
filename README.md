@@ -158,6 +158,15 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 
 
 
+
+
+
+![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/naveenkm07/your‑repo)
+![Dependencies](https://img.shields.io/librariesio/github/naveenkm07/your‑repo)
+
+
+
+
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/naveenkm07&size=100x100)
 
 
@@ -177,15 +186,6 @@ tags:
 
 
 
-
-
-
-
-
-
-
-![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/naveenkm07/your‑repo)
-![Dependencies](https://img.shields.io/librariesio/github/naveenkm07/your‑repo)
 
 
 
