@@ -162,7 +162,7 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 
 
 
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/naveenkm07&size=100x100)
+
 
 
 [![Read in Hindi](https://img.shields.io/badge/Read‑in‑Hindi-blue)](README.hi.md)
@@ -173,7 +173,9 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 
 
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/naveenkm07/your‑repo)
-## 🔎 Search  
 
-
-
+##
+  <br><br>
+<p align="center">
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/naveenkm07&size=100x100)
+</p>
