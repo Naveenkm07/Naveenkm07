@@ -50,6 +50,11 @@
 [GitHub Graph](https://github-readme-activity-graph.cyclic.app/)
 
 
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/naveenkm07&size=100x100)
+
+
+
+
 ## 🌐 Connect with me
 
 <p align="center">
