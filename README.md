@@ -153,3 +153,18 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
     alt="Streak Stats" 
   />
 </p>
+
+
+
+
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/naveenkm07&size=100x100)
+
+
+
+
+
+
+
+
+
