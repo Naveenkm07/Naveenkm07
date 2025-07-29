@@ -112,4 +112,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkm07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkm07&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkm07&theme=radical" alt="Streak Stats" />
 </p>
