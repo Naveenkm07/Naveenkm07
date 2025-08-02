@@ -179,6 +179,9 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 
 
 
+## 📊 Contribution Radar Chart
+
+![GitHub stats](https://github.com/naveenkm07/naveenkm07/blob/main/images/stat.svg)
 
 
 
