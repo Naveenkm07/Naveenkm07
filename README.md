@@ -173,3 +173,20 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/naveenkm07&size=100x100)
 
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/naveenkm07/your‑repo)
+
+
+
+
+
+
+
+
+
+
+
+## 📈 Contribution Breakdown
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naveenkm07/naveenkm07/main/assets/contribution-activity.png" width="300px" alt="GitHub Contribution Chart" />
+</p>
+
