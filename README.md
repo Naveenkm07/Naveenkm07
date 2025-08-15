@@ -175,5 +175,4 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/naveenkm07/your‑repo)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naveenkm07&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
