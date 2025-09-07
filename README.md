@@ -2,11 +2,8 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhrcXd6amp2N2RxNWlkN3lxOG4zbGZsMzJ2ZnowbWM3dWdqd3d6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding">
 </p>
-<<<<<<< HEAD
 
-=======
->>>>>>> 8d33dbe858a7291b8d3737e1a169cd5cfe02fdf7
-<!-- Animated Typing Effect ! -->
+<!-- Animated Typing Effect -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naveen+Kumar+K+M;A+Passionate+Developer+from+India" alt="Typing SVG" />
@@ -31,10 +28,6 @@
 ---
 
 <!-- 🐍 Contribution Snake Animation -->
-<<<<<<< HEAD
-=======
-
->>>>>>> 8d33dbe858a7291b8d3737e1a169cd5cfe02fdf7
 <p align="center">
   <img src="https://raw.githubusercontent.com/naveenkm07/naveenkm07/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
@@ -67,30 +60,14 @@
 
 ---
 
-<<<<<<< HEAD
 ## 🤝 Contributing
 Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue or PR.
 
-=======
-
-## 🤝 Contributing
-Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue or PR.
-
-
-
-
-
->>>>>>> 8d33dbe858a7291b8d3737e1a169cd5cfe02fdf7
 ---
 
 ## 📄 Resume
 [Download My Resume (PDF)](https://drive.google.com/file/d/143Sv8lh7o53afh1dFOc4Rk5j4nLtPdQo/view?usp=drivesdk)
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 8d33dbe858a7291b8d3737e1a169cd5cfe02fdf7
 ---
 
 ## 🛠️ Languages and Tools
@@ -135,10 +112,7 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=naveenkm07&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
-<<<<<<< HEAD
 
-=======
->>>>>>> 8d33dbe858a7291b8d3737e1a169cd5cfe02fdf7
 ---
 
 ## 📊 GitHub Stats
@@ -156,19 +130,14 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
     alt="Top Languages" 
   />
   <br><br>
-  <!-- **Working** streak stats -->
+  <!-- Streak stats -->
   <img 
     src="https://streak-stats.demolab.com?user=naveenkm07&theme=radical&date_format=M%20j%5B%2C%20Y%5D" 
     alt="Streak Stats" 
   />
 </p>
 
-<<<<<<< HEAD
 ---
-=======
-
-
->>>>>>> 8d33dbe858a7291b8d3737e1a169cd5cfe02fdf7
 
 ## 🏷️ Our Labels
 
@@ -176,38 +145,12 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 ![Feature](https://img.shields.io/badge/label-Feature-green)  
 ![Docs](https://img.shields.io/badge/label-Docs-blue)
 
-<<<<<<< HEAD
-![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/naveenkm07/your‑repo)
-![Dependencies](https://img.shields.io/librariesio/github/naveenkm07/your‑repo)
+![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/naveenkm07/your-repo)  
+![Dependencies](https://img.shields.io/librariesio/github/naveenkm07/your-repo)  
 
-[![Read in Hindi](https://img.shields.io/badge/Read‑in‑Hindi-blue)](README.hi.md)
-
-=======
-
-
-
-
-![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/naveenkm07/your‑repo)
-![Dependencies](https://img.shields.io/librariesio/github/naveenkm07/your‑repo)
-
-
-
-
-
-
-
-[![Read in Hindi](https://img.shields.io/badge/Read‑in‑Hindi-blue)](README.hi.md)
-
-
->>>>>>> 8d33dbe858a7291b8d3737e1a169cd5cfe02fdf7
-![License](https://img.shields.io/github/license/naveenkm07/your‑repo)
+[![Read in Hindi](https://img.shields.io/badge/Read-in-Hindi-blue)](README.hi.md)  
+![License](https://img.shields.io/github/license/naveenkm07/your-repo)  
 
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/naveenkm07&size=100x100)
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/naveenkm07/your‑repo)
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> 8d33dbe858a7291b8d3737e1a169cd5cfe02fdf7
+[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/naveenkm07/your-repo)
