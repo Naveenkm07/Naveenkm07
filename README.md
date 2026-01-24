@@ -59,8 +59,8 @@
 </p>
 
 ## 🚀 My Live Projects:
-* [🏛️ CityFix - Civic Issue Reporting](https://github.com/Naveenkm07/CityFix)
-* * [📊 DSA Tracker - Coding Practice Platform](https://github.com/Naveenkm07/DSA-Tracker)
+* [🎓 learning - intelligent-tutoring-system](https://nhce.netlify.app/)
+* * [🔒 SecureVault- Personal Data Management System](https://cse-tau.vercel.app/login)
   * * [🌐 Portfolio Website](https://naveenkm07.vercel.app)
 ---
 
