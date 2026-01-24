@@ -61,6 +61,9 @@
 ## 🚀 My Live Projects:
 * [🎓 learning - intelligent-tutoring-system](https://nhce.netlify.app/)
 * * [🔒 SecureVault- Personal Data Management System](https://cse-tau.vercel.app/login)
+* * [🌾 Kerala Krishi Sahayak - AI Farming Assistant](https://sih-nhce.vercel.app/)
+* * [💾 Memoria Vault - Personal Memory Digitization](https://miniproject5sem.vercel.app/)
+* * [📄 Resume Builder Pro - AI-Powered Resume Creator](https://pro-resume-builder-nine.vercel.app/)
   * * [🌐 Portfolio Website](https://naveenkm07.vercel.app)
 ---
 
