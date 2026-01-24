@@ -58,6 +58,10 @@
   </a>
 </p>
 
+## 🚀 My Live Projects:
+* [🏛️ CityFix - Civic Issue Reporting](https://github.com/Naveenkm07/CityFix)
+* * [📊 DSA Tracker - Coding Practice Platform](https://github.com/Naveenkm07/DSA-Tracker)
+  * * [🌐 Portfolio Website](https://naveenkm07.vercel.app)
 ---
 
 ## 🤝 Contributing
