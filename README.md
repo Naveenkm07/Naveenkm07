@@ -73,7 +73,7 @@ Please read [CONTRIBUTING.md](./.github/CONTRIBUTING.md) before opening an issue
 ---
 
 ## 📄 Resume
-[Download My Resume (PDF)](https://drive.google.com/file/d/143Sv8lh7o53afh1dFOc4Rk5j4nLtPdQo/view?usp=drivesdk)
+[Download My Resume (PDF)](https://drive.google.com/file/d/12GVxV4BibaqFiWk-_KJvbG73wS6BHfTw/view?usp=sharing)
 
 ---
 
