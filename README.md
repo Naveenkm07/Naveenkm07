@@ -91,7 +91,7 @@
 ## 🧠 Skills & Expertise
 
 **👨‍💻 Languages**  
-`Java` `Python` `C` `SQL` `HTML` `CSS`
+`Java` `Python`  `SQL` `HTML` `CSS`
 
 **🤖 AI / Machine Learning**  
 `TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
