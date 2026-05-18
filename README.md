@@ -192,10 +192,8 @@
 
 ## 📜 Certifications
 
-> *(Add your certifications here as you earn them)*
-
-- 🏅 [Certification Name] — Platform (Coursera / NPTEL / Google / Udemy)
-- 🏅 [Certification Name] — Platform
+- 🏅 [Certification Name] 
+- 🏅 [Certification Name] 
 
 ---
 
