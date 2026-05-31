@@ -50,7 +50,7 @@
 - 💼 **Open to:** Internships & Entry-level roles (2025–2026)
 - 📍 **Location:** Bangalore, Karnataka, India
 - 💬 Ask me about **AI/ML, Python, Java & Web Development**
-- 📫 Reach me at: **kmnaveenkm01@gmail.com**
+- 📫 Reach me at: kmnaveenkm01@gmail.com
 - ⚡ Fun fact: **I think I'm funny 😄**
 
 ---
