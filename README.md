@@ -42,7 +42,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Final year **CSE student** at **New Horizon College of Engineering, Bangalore**
 - 🔭 Currently building **AI-powered & full-stack web applications**
