@@ -1,8 +1,3 @@
-<!-- Coding GIF at the Top -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhrcXd6amp2N2RxNWlkN3lxOG4zbGZsMzJ2ZnowbWM3dWdqd3d6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding GIF" />
-</p>
-
 <!-- Animated Typing Effect -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -35,13 +30,6 @@
 
 ---
 
-<!-- 🐍 Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naveenkm07/naveenkm07/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Final year **CSE student** at **New Horizon College of Engineering, Bangalore**
@@ -54,11 +42,19 @@
 - 📫 Reach me at: kmnaveenkm01@gmail.com
 - ⚡ Fun fact: **I think I'm funny 😄**
 
+<!-- Available for Hire Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for-Internships%20%26%20Entry--Level%20Roles-brightgreen?style=for-the-badge" alt="Available for Hire" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/12GVxV4BibaqFiWk-_KJvbG73wS6BHfTw/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-PDF-red?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/naveenkm07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -115,12 +111,10 @@
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-FF9900?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 **🌐 Web & Backend**  
@@ -139,10 +133,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
@@ -152,8 +145,6 @@
   <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF5722?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI/CD-00BCD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agile-795548?style=for-the-badge" />
 </p>
 
 ---
@@ -185,19 +176,6 @@
 
 ---
 
-## 📅 Learning Roadmap
-
-| Status | Topic / Skill Area | Details |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/-Completed-success?style=flat" /> | **Core Java & DSA** | OOP, Data Structures, Algorithms |
-| <img src="https://img.shields.io/badge/-Completed-success?style=flat" /> | **Machine Learning** | Scikit-learn, TensorFlow, PyTorch |
-| <img src="https://img.shields.io/badge/-Completed-success?style=flat" /> | **Full-Stack Web** | HTML, CSS, Node.js, React |
-| <img src="https://img.shields.io/badge/-In_Progress-blue?style=flat" /> | **Generative AI** | LLMs, Vector Stores, RAG, Embeddings |
-| <img src="https://img.shields.io/badge/-In_Progress-blue?style=flat" /> | **System Design** | Scalability, High-Level Design (HLD) |
-| <img src="https://img.shields.io/badge/-Up_Next-orange?style=flat" /> | **Cloud Architecture** | Advanced AWS & GCP deployments |
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -215,6 +193,9 @@
     src="https://streak-stats.demolab.com?user=naveenkm07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     alt="Streak Stats"
   />
+  <br><br>
+  <!-- 🐍 Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/naveenkm07/naveenkm07/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -233,21 +214,12 @@
   <img src="https://my-github-trophies-chi.vercel.app/?username=naveenkm07&theme=radical&no-frame=true&no-bg=true&margin-w=4&v=1" alt="GitHub Trophies" />
 </p>
 
----
 
-## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/12GVxV4BibaqFiWk-_KJvbG73wS6BHfTw/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-PDF-red?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</p>
-
-
-
----
-
-<p align="center">
+  <!-- Coding GIF at the Bottom -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhrcXd6amp2N2RxNWlkN3lxOG4zbGZsMzJ2ZnowbWM3dWdqd3d6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300px" alt="Coding GIF" />
+  <br><br>
   <i>Thanks for visiting! If you like my work, consider giving a ⭐ to my repos.</i><br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
