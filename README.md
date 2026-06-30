@@ -153,10 +153,10 @@
 
 | # | Project | Description | Tech Stack | Live Demo |
 |---|---------|-------------|------------|-----------|
-| 🌱 | **Soil Fertility Analyzer** | ML model predicting soil fertility w/ 90%+ accuracy | Python, Scikit-learn | [🔗 Live](https://soil-fertilizer.netlify.app/) |
+| 🌱 | **Soil Fertility Analyzer** | ML model predicting soil fertility with 90%+ accuracy | Python, Scikit-learn | [🔗 Live](https://soil-fertilizer.netlify.app/) |
 | 📧 | **Spam Email Classifier** | NLP-based spam detection with text preprocessing | Python, NLP, Scikit-learn | [🔗 Live](https://spam-email-classification.vercel.app/) |
 | 🎓 | **Intelligent Tutoring System** | AI-powered personalized learning platform | Python, ML, NLP | [🔗 Live](https://nhce.netlify.app/) |
-| 🔒 | **SecureVault** | Personal data management with encryption & user auth | Python, SQL, Flask | [🔗 Live](https://cse-tau.vercel.app/login) |
+| 🔒 | **SecureVault** | Personal data management with encryption & user authentication | Python, SQL, Flask | [🔗 Live](https://cse-tau.vercel.app/login) |
 | 🌾 | **Kerala Krishi Sahayak** | AI farming assistant for rural users (SIH Project) | Python, AI/ML | [🔗 Live](https://sih-nhce.vercel.app/) |
 | 💾 | **Memoria Vault** | Personal memory digitization & storage app | React, Node.js | [🔗 Live](https://miniproject5sem.vercel.app/) |
 | 📄 | **Resume Builder Pro** | AI-powered resume creator & formatter | React, AI | [🔗 Live](https://pro-resume-builder-nine.vercel.app/) |
@@ -171,7 +171,7 @@
 - 🥈 **2nd Place** – Srujana 2025 Hackathon (Chanakya University), awarded by former ISRO Chairman.
 - 🥈 **2nd Prize** – Mini Project Competition at NHCE.
 - 🎤 **Board Member** – TEDx NHCE (2025–2026).
-- 💻 **Participant** – 10+ National-level Hackathons (Led project planning & documentation).
+- 💻 **Participant** – 10+ National-level Hackathons (led project planning & documentation).
 - 🌟 **Open-Source Contributor** – Maintaining 70+ public repositories on GitHub.
 
 ---
